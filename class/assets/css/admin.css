@@ -1,0 +1,14 @@
+.outdated-post-notice {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    max-width: 600px;
+    padding: 10px;
+}
+
+.outdated-post-notice-days,
+.outdated-post-notice-message {
+    margin-bottom: 5px;
+    resize: vertical;
+}
+.outdated-post-notice-days { width: 60px; }
